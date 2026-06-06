@@ -92,5 +92,6 @@ python -m streamlit run app.py
 
 ## 👩‍💻 Built By
 
-**Bhavadharani** — B.Tech IT, KPRIET Coimbatore
-Microsoft AI Hackathon 2026
+**Bhavadharani Mummoorthi** — B.Tech Information Technology
+KPRIET Coimbatore
+
