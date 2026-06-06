@@ -1,6 +1,6 @@
 # 🔍 AURA — Autonomous Agentic Web Research & Extraction Assistant
 
-> Built for **Microsoft AI Hackathon 2026** | Powered by Groq + LLaMA 3.3
+
 
 ---
 
@@ -92,6 +92,5 @@ python -m streamlit run app.py
 
 ## 👩‍💻 Built By
 
-**Bhavadharani Mummoorthi** — B.Tech Information Technology
-KPRIET Coimbatore
+**Bhavadharani Mummoorthi** — B.Tech Information Technology,KPRIET,Coimbatore
 
